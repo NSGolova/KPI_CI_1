@@ -1,2 +1,2 @@
 Hello world!
-viktor.radulov@mail.ru - Viktor Radulo
+viktor.radulov@mail.ru - Viktor Radulov
